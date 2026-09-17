@@ -734,8 +734,6 @@ h2 {
 .timeline {
   display: grid;
   width: min(100%, 1120px);
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.4rem;
   margin: auto;
 }
 
